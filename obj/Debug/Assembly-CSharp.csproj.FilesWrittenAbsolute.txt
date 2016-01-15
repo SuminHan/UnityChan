@@ -1,0 +1,17 @@
+/Users/Rho-Eojin1/UnityChan2/Temp/bin/Debug/UnityEngine.dll
+/Users/Rho-Eojin1/UnityChan2/Temp/bin/Debug/UnityEditor.dll
+/Users/Rho-Eojin1/UnityChan2/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Rho-Eojin1/UnityChan2/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Rho-Eojin1/UnityChan2/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Rho-Eojin1/UnityChan2/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Rho-Eojin1/UnityChan2/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Rho-Eojin1/UnityChan2/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Rho-Eojin1/UnityChan2/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Rho-Eojin1/UnityChan2/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Rho-Eojin1/UnityChan2/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Rho-Eojin1/UnityChan2/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Rho-Eojin1/UnityChan2/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Rho-Eojin1/UnityChan2/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Rho-Eojin1/UnityChan2/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Rho-Eojin1/UnityChan2/obj/Debug/Assembly-CSharp.dll
+/Users/Rho-Eojin1/UnityChan2/obj/Debug/Assembly-CSharp.dll.mdb
