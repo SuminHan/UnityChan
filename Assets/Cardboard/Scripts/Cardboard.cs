@@ -688,6 +688,7 @@ public class Cardboard : MonoBehaviour {
     device.OnApplicationQuit();
   }
 
+
   void OnDestroy() {
     VRModeEnabled = false;
     UILayerEnabled = false;
@@ -717,7 +718,7 @@ public class Cardboard : MonoBehaviour {
   public bool CardboardTriggered { get { return Triggered; } }
 
   /// @deprecated Use #HeadPose instead.
-  [System.Obsolete("Use HeadPose instead.")]
+  //[System.Obsolete("Use HeadPose instead.")]
   public Matrix4x4 HeadView { get { return HeadPose.Matrix; } }
 
   /// @deprecated Use #HeadPose instead.

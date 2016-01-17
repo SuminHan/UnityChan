@@ -75,7 +75,6 @@
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\CardboardAndroidDevice.cs" />
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\CardboardiOSDevice.cs" />
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\UnityEditorDevice.cs" />
-     <Compile Include="Assets\NetworkManger.cs" />
      <Compile Include="Assets\SocketIO\JSONObject\JSONObject.cs" />
      <Compile Include="Assets\SocketIO\JSONObject\JSONTemplates.cs" />
      <Compile Include="Assets\SocketIO\JSONObject\VectorTemplates.cs" />
@@ -162,6 +161,9 @@
      <Compile Include="Assets\UnityChan\Scripts\SceneLoader.cs" />
      <Compile Include="Assets\UnityChan\Scripts\ThirdPersonCamera.cs" />
      <Compile Include="Assets\UnityChan\Scripts\UnityChanControlScriptWithRgidBody.cs" />
+     <Compile Include="Assets\_Scripts\Destroy.cs" />
+     <Compile Include="Assets\_Scripts\HeadView.cs" />
+     <Compile Include="Assets\_Scripts\NetworkManger.cs" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye.shader" />
      <None Include="Assets\Cardboard\Resources\SkyboxMesh.shader" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
@@ -172,6 +174,7 @@
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku_ds.shader" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye_blend.shader" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair_ds.shader" />
+     <None Include="Assets\KY_effects\MagicEffectsPackFree\ReadMe.txt" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_akarami_blend.shader" />
      <None Include="Assets\SocketIO\readme.txt" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
