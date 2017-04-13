@@ -1,5 +1,7 @@
 # UnityChan
 
+![alt tab](screenshot.jpg)
+
 <Final Project: Eojin Roh, Sumin Han, SeongHwei Lee> 
 * Project Name: Magical Girl Unity Chan☆
 * Git: The capacity is too large: we couldn't use git.
