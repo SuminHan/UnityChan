@@ -1,4 +1,4 @@
-# UnityChan
+# Magical Girl UnityChan
 
 ![alt tab](screenshot.jpg)
 
